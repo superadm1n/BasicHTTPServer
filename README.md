@@ -18,5 +18,5 @@ python server.py --port 10000
 ```
 Specify directory to serve
 ```
-python server.py /path/to/my/files/
+python server.py --webdir /path/to/my/files/
 ```
